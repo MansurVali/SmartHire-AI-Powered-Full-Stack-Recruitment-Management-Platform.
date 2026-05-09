@@ -61,26 +61,28 @@ PostgreSQL Database
 
 ## Screenshots
 
+> Screenshots are stored under [`./screenshots/`](./screenshots). Add the PNG files to that folder for them to render on GitHub.
+
 ### Login Page
-![Login Page](https://app.devin.ai/attachments/2d4ca574-29ce-4797-9ac1-7d7f04d1a6e8/01-login-page.png)
+![Login Page](./screenshots/01-login.png)
 
 ### Hiring Dashboard (Acme Corp – Admin)
-![Dashboard](https://app.devin.ai/attachments/9e96a3f5-2ad6-49ee-a5ae-e1e41ace060e/02-dashboard.png)
+![Dashboard](./screenshots/02-dashboard.png)
 
 ### Job Postings
-![Job Postings](https://app.devin.ai/attachments/e11beceb-d97d-4f00-8ef4-d61b13b2261b/03-job-postings.png)
+![Job Postings](./screenshots/03-job-postings.png)
 
 ### Candidate Pipeline
-![Pipeline](https://app.devin.ai/attachments/03480018-4fb7-4a63-9a55-5fef84c50b0d/04-pipeline.png)
+![Pipeline](./screenshots/04-pipeline.png)
 
 ### Live AI Screening
-![Live AI Screening](https://app.devin.ai/attachments/d7d7136a-d62c-4065-a096-e91df78f095c/05-live-ai-screening.png)
+![Live AI Screening](./screenshots/05-live-ai-screening.png)
 
 ### Register Company
-![Register Company](https://app.devin.ai/attachments/203b54bb-08ec-4182-bfb6-abf7f25144b0/06-register-company.png)
+![Register Company](./screenshots/06-register-company.png)
 
 ### Multi-Tenant Isolation (NexGen Tech – Recruiter)
-![NexGen Dashboard](https://app.devin.ai/attachments/f42c0a00-b977-4a03-af4d-3acd8017cf66/07-nexgen-dashboard.png)
+![NexGen Dashboard](./screenshots/07-nexgen-dashboard.png)
 
 ---
 
