@@ -161,7 +161,7 @@ SmartHire/
 
 ## 📊 Hiring Dashboard (Admin)
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./dashboard.png)
 
 ### Dashboard Capabilities
 
@@ -174,7 +174,7 @@ SmartHire/
 
 ## 💼 Job Postings Module
 
-![Job Postings](./screenshots/job-postings.png)
+![Job Postings](./job-postings.png)
 
 ### Features
 
@@ -187,7 +187,7 @@ SmartHire/
 
 ## 👨‍💻 Candidate Pipeline
 
-![Pipeline](./screenshots/pipeline.png)
+![Pipeline](./pipeline.png)
 
 ### Features
 
@@ -200,7 +200,7 @@ SmartHire/
 
 ## 🤖 Live AI Screening
 
-![Live AI Screening](./screenshots/live-ai-screening.png)
+![Live AI Screening](./live-ai-screening.png)
 
 ### Features
 
@@ -213,7 +213,7 @@ SmartHire/
 
 ## 🏢 Register Company Module
 
-![Register Company](./screenshots/register-company.png)
+![Register Company](./register-company.png)
 
 ### Features
 
@@ -226,7 +226,7 @@ SmartHire/
 
 ## 🌐 Multi-Tenant Recruiter Dashboard
 
-![NexGen Dashboard](./screenshots/nexgen-dashboard.png)
+![NexGen Dashboard](./nexgen-dashboard.png)
 
 ### Features
 
