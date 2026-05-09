@@ -122,8 +122,8 @@ INSERT INTO companies (tenant_id, company_name, industry, plan) VALUES
   ('nexgen-tech', 'NexGen Technologies','Finance',      'FREE');
 
 INSERT INTO hr_users (tenant_id, name, email, password_hash, role) VALUES
-  ('acme-corp',   'Alice Admin',  'admin@acme.com',   '$2a$12$KIXx2p7y0.oB5YnEFJ/nLemCEA3YhNXJUJ0hwU68Y0mJD5Q3Pvqee', 'ADMIN'),
-  ('nexgen-tech', 'Bob Recruiter','bob@nexgen.com',   '$2a$12$KIXx2p7y0.oB5YnEFJ/nLemCEA3YhNXJUJ0hwU68Y0mJD5Q3Pvqee', 'RECRUITER');
+  ('acme-corp',   'Alice Admin',  'admin@acme.com',   '$2a$12$70Xicef.NgrRpFx6hVRm..sXmgAcM5.lDBejB8jeUVcUNWlqS2Fx2', 'ADMIN'),
+  ('nexgen-tech', 'Bob Recruiter','bob@nexgen.com',   '$2a$12$70Xicef.NgrRpFx6hVRm..sXmgAcM5.lDBejB8jeUVcUNWlqS2Fx2', 'RECRUITER');
 -- ^ Both passwords = "password123"
 
 INSERT INTO job_postings (tenant_id, title, description, required_skills, location, job_type, experience_years, salary_range, created_by) VALUES
